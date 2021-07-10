@@ -1,0 +1,31 @@
+  .e {
+   white-space: nowrap;
+  }
+
+  .e > div {
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal ;
+    color:lime;
+    text-shadow: 1px 1px 1px ;
+    font-size: 29px;
+    font-weight:550;
+  }
+
+.ee {
+  white-space: nowrap;
+}
+
+ .ee > div {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal ;
+    color:lime;
+    text-shadow: 1px 1px 1px ;
+    font-size: 32px;
+    font-weight:550;
+    display: inline-block;
+ }
+
+body {
+    background-color:#2c2f33;
+  }
